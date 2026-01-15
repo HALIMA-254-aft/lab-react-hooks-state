@@ -6,7 +6,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #2a69c7;
+  background-color: #f5f7fa;
   color: #222;
   transition: background-color 0.3s, color 0.3s;
 }
@@ -228,7 +228,7 @@ body.dark-mode .cart-item {
 
 .cart-item:hover {
   transform: translateY(-2px);
-  background-color: #1754af;
+  background-color: #e6f0ff;
 }
 
 body.dark-mode .cart-item:hover {
@@ -324,4 +324,3 @@ body.dark-mode .empty-cart {
   transform: translateX(50px);
   transition: all 0.3s ease;
 }
-  
